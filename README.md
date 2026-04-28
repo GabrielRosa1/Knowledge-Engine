@@ -13,7 +13,7 @@ O **F1 Knowledge Engine** é um sistema de inferência lógica construído sobre
 A arquitetura integra três camadas:
 
 - **ETL em Python** — coleta, limpeza e transformação dos dados brutos para o formato Prolog
-- **Base de Conhecimento** — predicados gerados automaticamente a partir do dataset real (Kaggle)
+- **Base de Conhecimento** — predicados gerados automaticamente a partir do dataset real (Kaggle), foi utilizadas as tabelas results.csv, drivers.csv, constructors.csv e races.csv, que foram transformadas em uma tabela que abrange todas as corridas, resultados, pilotos e construtores desde 2018.
 - **Motor de Inferência** — regras e queries em Prolog que permitem raciocínio declarativo sobre os dados
 
 ---
