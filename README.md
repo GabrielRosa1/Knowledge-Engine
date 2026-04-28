@@ -17,7 +17,7 @@
 
 | 👨‍💻 Autor | 📚 Disciplina | 🏫 Instituição | 📅 Entrega |
 |:---:|:---:|:---:|:---:|
-| **Gabriel Rosa** | Lógica e Matemática Discreta | Insper — 2026/1 | 03/05/2026 |
+| **Gabriel Rosa** | Lógica e Matemática Discreta | Insper | 03/05/2026 |
 
 </div>
 
