@@ -340,11 +340,4 @@ O projeto demonstra na prática como a **Programação Lógica** e a **Lógica d
 A abordagem declarativa do Prolog permite formular perguntas complexas — rankings, médias, determinação de campeões — de forma concisa, evidenciando a diferença fundamental entre o paradigma lógico e o procedural.
 
 ---
-
-<div align="center">
-
-
-<img src="https://img.shields.io/badge/status-entregue-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/nota%20esperada-A-gold?style=flat-square" />
-
 </div>
